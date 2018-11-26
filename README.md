@@ -13,3 +13,6 @@ tanngo.py
 
 honnyaku.py
 入力された文章を翻訳してくれます。
+
+tanngo_translate.py
+組み合わせ例＿＿頻出単語とその回数を降順に表示（日本語で翻訳付き）
