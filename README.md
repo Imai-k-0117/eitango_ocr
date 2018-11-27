@@ -19,3 +19,6 @@ tanngo_translate.py
 
 tanngo_output.py
 tanngotranslate.pyの出力を綺麗にしてみた（日本語はフォントの修正が必要）
+
+csv_output.py
+出力した単語リストをcsvファイルにデータとして落としてくれます。
