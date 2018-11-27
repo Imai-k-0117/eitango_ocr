@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Mon Nov 26 14:30:35 2018
 
@@ -10,16 +10,16 @@ from collections import Counter
 import requests, uuid, json
 # 00 テキストの取得
 target_text = """
-she found the exhibition
+-------------------------
 """
 
-base_url = 'https://api.cognitive.microsofttranslator.com'
-path = '/translate?api-version=3.0'
+base_url = '------------------------------------'
+path = '------------------------------'
 params = "&to=ja"
 constructed_url = base_url + path + params
 
 headers = {
-    'Ocp-Apim-Subscription-Key': '443c8d0c729044cbb9eaa927dca40626',
+    'Ocp-Apim-Subscription-Key': '-------------------------------',
     'Content-type': 'application/json',
     'X-ClientTraceId': str(uuid.uuid4())
 }
