@@ -16,3 +16,6 @@ honnyaku.py
 
 tanngo_translate.py
 組み合わせ例＿＿頻出単語とその回数を降順に表示（日本語で翻訳付き）
+
+tanngo_output.py
+tanngotranslate.pyの出力を綺麗にしてみた（日本語はフォントの修正が必要）
